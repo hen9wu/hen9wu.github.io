@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.pku.edu.cn/'>Peking University</a>. <a href='https://ic.pku.edu.cn/index.htm'>School of Integrated Circuits</a>. .hengwu at pku.edu.cn. The Power of Nature is Unbelievable. Etc.
+subtitle: <a href='https://www.pku.edu.cn/'>Peking University</a>. <a href='https://ic.pku.edu.cn/index.htm'>School of Integrated Circuits</a>. .hengwu at pku.edu.cn. The Power of Nature is Unbelievable.
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
 
 I am an associate professor at the School of Integrated Circuits of Peking University. 
 
-I was a Research Staff Member at IBM T. J. Watson Research Center in New York State USA from 2016 to 2022. I received the Ph.D. degree in Electrical and Computer Engineering from Purdue University in 2016. My research focuses on Design Technology Co-optimization (DTCO), 3D Integration, VLSI Technology Development and Semiconductor Devices&Physics. 
+I was a Research Staff Member at <a href='https://research.ibm.com/labs/albany/'>IBM T. J. Watson Research Center</a> in New York State USA from 2016 to 2022. I received the Ph.D. degree in Electrical and Computer Engineering from Purdue University under Professor <a href='https://engineering.purdue.edu/~yep/'>P.D. Ye</a> in 2016. My research focuses on Design Technology Co-optimization (DTCO), 3D Integration, VLSI Technology Development and Semiconductor Devices&Physics. 
 
-I am a recipient of Best Paper Awards of several renowned conferences such as VLSI2024, DRC2015, SRC2015 and SISC2013. I also received the IEEE Paul Rappaport Award and was appointed as "IBM Master Inventor".
+I am a recipient of Best Paper Awards of several renowned conferences such as <a href='http://www.vlsisymposium.org/'>VLSI</a>2024, <a href='https://2025.deviceresearchconference.org/'>DRC</a>2015, <a href='https://www.src.org/calendar/e005106/'>TECHON</a>2015 and <a href='https://www.ieeesisc.org/'>SISC</a>2013. I also received the IEEE Paul Rappaport Award and was appointed as "IBM Master Inventor".
 
