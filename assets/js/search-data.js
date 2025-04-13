@@ -32,13 +32,13 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Description for courses I taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-team",
-          title: "Team",
+        },{id: "nav-dtco-device-team-pku",
+          title: "DTCO Device Team @ PKU",
           description: "meet members of the group",
           section: "Navigation",
           handler: () => {
@@ -101,13 +101,13 @@ ninja.data = [{
           description: "3D integration enables the continuous scaling beyond Moore&#39;s Law",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-stacking-technology",
-          title: 'Stacking Technology',
+            },},{id: "projects-stacking-fets",
+          title: 'Stacking FETs',
           description: "Flip FET is a revolutionary transistor stacking technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-dual-sided-design",
-          title: 'Dual-sided Design',
+            },},{id: "projects-dual-sided-cir",
+          title: 'Dual-sided Cir.',
           description: "The circuit design innovations for both sides of wafer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
