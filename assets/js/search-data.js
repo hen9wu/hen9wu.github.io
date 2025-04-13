@@ -440,16 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-think-think-different-and-hardworking-my-favourite-quote-from-bob-dennard-if-you-want-to-be-successful-attitude-is-everything-we-have-all-the-knowledge-you-need-and-you-ought-to-be-ready-to-have-the-attitude-to-do-something-with-it-robert-h-dennard",
+          title: 'THINK, THINK DIFFERENT and HARDWORKING My favourite quote from Bob Dennard If you...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-for-the-paper-entitled-first-experimental-demonstration-of-self-aligned-flip-fet-ffet-a-breakthrough-stacked-transistor-technology-with-2-5-t-design-dual-side-active-and-interconnects",
+          title: 'For the paper entitled “First Experimental Demonstration of Self-Aligned Flip FET (FFET): A...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-for-the-paper-entitled-consideration-of-vfet-for-ultimate-logic-scaling-a-design-perspective",
+          title: 'For the paper entitled “Consideration of VFET for Ultimate Logic Scaling: A Design...',
+          description: "",
+          section: "News",},{id: "news-for-the-research-on-ffet-demo-ffet-dtco-and-dsvfet-demo",
+          title: 'For the research on FFET Demo, FFET DTCO and DSVFET Demo.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -501,35 +502,35 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%68%65%6E%67%77%75@%70%6B%75.%65%64%75.%63%6E", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/heng-wu-1764a239", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0002-6854-3373", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=Ewp3OhkAAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://ic.pku.edu.cn/szdw/zzjs/jcwndzx1/wh/index.htm", "_blank");
         },
       },{
       id: 'light-theme',
