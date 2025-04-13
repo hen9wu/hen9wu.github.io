@@ -2,7 +2,7 @@
 layout: page
 title: 3D Integration
 description: 3D integration enables the continuous scaling beyond Moore's Law  
-img: assets/img/3D_integration.jpg
+img: assets/img/3D_Integration.jpg
 importance: 2
 category: work
 giscus_comments: true
@@ -15,7 +15,7 @@ This technology is particularly beneficial in addressing the challenges of Moore
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3D_integration.jpg" title="3D_integration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3D_Integration.jpg" title="3D_integration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
