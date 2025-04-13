@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-favourite-quote-from-bob-dennard-if-you-want-to-be-successful-attitude-is-everything-we-have-all-the-knowledge-you-need-and-you-ought-to-be-ready-to-have-the-attitude-to-do-something-with-it-robert-h-dennard",
-          title: 'My favourite quote from Bob Dennard If you want to be successful, attitude...',
+            },},{id: "news-quote-from-bob-dennard-if-you-want-to-be-successful-attitude-is-everything-we-have-all-the-knowledge-you-need-and-you-ought-to-be-ready-to-have-the-attitude-to-do-something-with-it-robert-h-dennard",
+          title: 'Quote from Bob Dennard If you want to be successful, attitude is everything....',
           description: "",
           section: "News",},{id: "news-prof-wu-joined-peking-university-as-an-associate-professor",
           title: 'Prof. Wu Joined Peking University as an Associate Professor',
@@ -459,7 +459,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
             },},{id: "news-3-papers-accepted-in-ieee-vlsi-2025-congratulations-to-the-authors",
-          title: '3 Papers accepted in IEEE VLSI 2025, Congratulations to the authors!',
+          title: '3 Papers accepted in IEEE VLSI 2025, congratulations to the authors!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
