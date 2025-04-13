@@ -193,6 +193,7 @@ exclude:
   - _pages/repositories.md
   - _pages/books.md
   - _pages/dropdown.md
+  - _posts
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -270,7 +271,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Wu]
-  first_name: [Heng, H.]
+  first_name: [Heng, H., H ]
 
   style: apa
   locale: en

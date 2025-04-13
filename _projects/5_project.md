@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technology Definition
+title: Tech. Definition
 description: Pathfinding for Next-Gen Technology 
 img: assets/img/Roadmaps.jpg
 importance: 5

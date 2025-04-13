@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Design Technology Co-optimization (DTCO)
-description: with background image
+title: DTCO
+description: Design Technology Co-optimization
 img: assets/img/DTCO.jpg
 importance: 1
 category: work

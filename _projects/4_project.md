@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dual-sided Circuits Design
+title: Dual-sided Design
 description: The circuit design innovations for both sides of wafer 
 img: assets/img/Design.jpg
 importance: 4
