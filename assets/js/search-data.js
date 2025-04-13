@@ -440,19 +440,30 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-think-think-different-and-hardworking-my-favourite-quote-from-bob-dennard-if-you-want-to-be-successful-attitude-is-everything-we-have-all-the-knowledge-you-need-and-you-ought-to-be-ready-to-have-the-attitude-to-do-something-with-it-robert-h-dennard",
-          title: 'THINK, THINK DIFFERENT and HARDWORKING My favourite quote from Bob Dennard If you...',
+            },},{id: "news-my-favourite-quote-from-bob-dennard-if-you-want-to-be-successful-attitude-is-everything-we-have-all-the-knowledge-you-need-and-you-ought-to-be-ready-to-have-the-attitude-to-do-something-with-it-robert-h-dennard",
+          title: 'My favourite quote from Bob Dennard If you want to be successful, attitude...',
           description: "",
-          section: "News",},{id: "news-for-the-paper-entitled-first-experimental-demonstration-of-self-aligned-flip-fet-ffet-a-breakthrough-stacked-transistor-technology-with-2-5-t-design-dual-side-active-and-interconnects",
-          title: 'For the paper entitled “First Experimental Demonstration of Self-Aligned Flip FET (FFET): A...',
+          section: "News",},{id: "news-prof-wu-joined-peking-university-as-an-associate-professor",
+          title: 'Prof. Wu Joined Peking University as an Associate Professor',
           description: "",
-          section: "News",},{id: "news-for-the-paper-entitled-consideration-of-vfet-for-ultimate-logic-scaling-a-design-perspective",
-          title: 'For the paper entitled “Consideration of VFET for Ultimate Logic Scaling: A Design...',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-one-paper-accepted-in-ieee-vlsi-2024-congratulations-to-haoran-and-yandong",
+          title: 'One Paper Accepted in IEEE VLSI 2024, congratulations to Haoran and Yandong',
           description: "",
-          section: "News",},{id: "news-for-the-research-on-ffet-demo-ffet-dtco-and-dsvfet-demo",
-          title: 'For the research on FFET Demo, FFET DTCO and DSVFET Demo.',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-yimeng-wang-won-best-paper-in-ieee-edtm-2024-congratulations",
+          title: 'Yimeng Wang Won Best Paper in IEEE EDTM 2024, congratulations!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-3-papers-accepted-in-ieee-vlsi-2025-congratulations-to-the-authors",
+          title: '3 Papers accepted in IEEE VLSI 2025, Congratulations to the authors!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
