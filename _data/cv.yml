@@ -2,96 +2,103 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Heng Wu
+    - name: Title
+      value: Associate Professor
+    - name: Tel.
+      value: +86+62753071
+    - name: Add.
+      value: 410 IMNE Building, Peking University, 5 Yiheyuan Road, Beijing, P.R. China
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: Purdue University, West Lafayette, IN, USA
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Electrical and Computer Engineering
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - "Thesis: Non-Silicon CMOS Devices and Circuits on High Mobility Channel Materials: Germanium and III-V"
+            - "Advisor: Peide D. Ye"
 
-- title: Experience
+- title: Work
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Professor
+      institution: School of Integrated Circuits, Peking University, China
+      year: 2023-Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Design Technology Co-Optimization (DTCO)
+        - 3D Integration Architecture for Future
+        - Novel Devices based on New Switching Mechanism/Materials
+
+    - title: Research Staff Member
+      institution: IBM T.J. Watson Research Center
+      year: 2016-2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Semiconductor Technology Development
+        - FEOL (Front End of Line) Device/Process Integration
+        - Performance Step Up and Design/Technology Definition
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - IBM Master Inventor ~ IBM Cooperation
+    - year: 2021
       items:
-        - Max Planck Medal
+        - IEEE EDS Paul Rappaport Award ~ IEEE
+    - year: 2018
+      items:
+        - Research division award ~ IBM Cooperation
+    - year: 2020
+      items:
+        - Research alliance award ~ IBM Cooperation
+    - year: 2016-2022
+      items:
+        - Invention achievement award ~ IBM Cooperation
+    - year: 2015
+      items:
+        - Best paper in session award ~ SRC TECHON Conference
+    - year: 2015
+      items:
+        - Best paper award ~ DRC Conference
+    - year: 2014
+      items:
+        - Best paper award ~ IEEE VLSI Conference
+    - year: 2013
+      items:
+        - Best paper award ~ IEEE SISC Conference
 
-- title: Academic Interests
+- title: SELECTED PUBLICATIONS
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Patents
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - <p> <a href='https://www.freepatentsonline.com/result.html?p=1&edit_alert=&srch=xprtsrch&query_txt=IN%2FWu%2CHeng+AADR%2FARMONK&uspat=on&usapp=on&eupat=on&jp=on&pct=on&depat=on&date_range=all&stemming=on&sort=chron&search=Search'>374 US/Global Patents Filed</a> </p>
+        - 145 Chinese Patents Filed
 
-- title: Other Interests
+    - title: Book Chapters
+      items:
+        - “Contact Resistance Reduction Approaches”, < An Introduction to Contact Resistance>, Nova Science Publishers, ISBN 1536185019, 9781536185010. Ch6
+        - “Low-Resistance Contact Integration in CMOS Technology”, < An Introduction to Contact Resistance>, Nova Science Publishers, ISBN 1536185019, 9781536185010. Ch4
+        - “Low-Resistance Contact Integration in CMOS Technology”, < An Introduction to Contact Resistance>, Nova Science Publishers, ISBN 1536185019, 9781536185010. Ch5
+        - “Integration of Germanium into Modern CMOS Challenges and Breakthroughs”, < Advanced Nanoelectronics >, Post-Silicon Materials and Devices>, WILEY, 2018. 10.1002/9783527811861.ch4
+        - “Performance Elements for Future CMOS Technology”, < Advances in Engineering Research. Volume 29> Nova Science Publishers, ISBN 978-1-53615-902-8, ch1
+
+    - title: Invited Talks
+      items:
+        - More than 10 Invited Talks in SSDM 2015, National Semiconductor Physics Conference, CSTIC2023, CSTIC2025, ISEDA2025 et al
+
+    - title: Conference & Journal Papers
+      items:
+        - More than 70 papers (including 12 Papers in IEDM/VLSI with 1st/Corresponding authorship
+
+- title: Professional Services
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Committee:</u> IEEE Semiconductor Manufacturing Committee, ISQED Conference ...
+    - <u>Reviewer:</u> IEEE Electron Device Letters (EDL), IEEE Transaction on Device and Material Reliability (TDMR), IEEE Transaction on Electron Devices (TED), Journal of Electron Device Society, Journal of Nanomaterials, Chinese Physics B, Microelectronic Engineering, Journal of Applied Physics, Electronics, Micromachine, IEEE IEDM, Symposium on VLSI
+
