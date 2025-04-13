@@ -1,81 +1,56 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: The Stacking Technology
+description: Flip FET is a revolutionary transistor stacking technology
+img: assets/img/Technology.jpg
 importance: 3
 category: work
 ---
+**Transistor Stacking** beyond GAA represents the next frontier in semiconductor innovation, aiming to push the limits of device scaling and performance. While Gate-All-Around (GAA) transistors have enabled significant improvements in miniaturization and efficiency, stacking technologies extend these advancements by vertically stacking multiple transistor layers. This approach offers several advantages, including enhanced drive current, reduced footprint, and increased transistor density, all while maintaining low power consumption.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The key benefit of transistor stacking is the ability to integrate multiple logic and memory layers in a single package, addressing the growing demand for high-performance computing, memory-intensive applications, and miniaturized devices. By utilizing 3D stacking, these technologies enable the development of chips that are more powerful and efficient, which are crucial for the next generation of mobile, AI, and data center applications.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+With continued advancements in material science, bonding techniques, and fabrication processes, transistor stacking beyond GAA holds the potential to enable even smaller, faster, and more energy-efficient devices, driving the future of integrated circuit design.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Technology.jpg" title="Stacked Transistor Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Flip FET, an example for future's transistor stacking
+</div>
+
+The figure showcases several **device architecture innovations** focused on next-generation semiconductor technologies. These innovations aim to enhance the performance and scalability of transistor and interconnect designs.
+
+1. **Mono. CFET (Monolithic CFET)**: The architecture features a **self-aligned active region**, improving device alignment precision and reducing process complexity. This structure allows for better integration of complementary devices in a monolithic configuration, enhancing performance without sacrificing chip area.
+
+2. **Seq. CFET (Sequential CFET)**: This sequential configuration focuses on stacking complementary transistors with optimized interconnections. The **Low AR (Aspect Ratio) Process** enables efficient stacking of the devices while maintaining excellent electrical properties. This architecture is designed to meet the growing demand for higher device density and performance.
+
+3. **BSS (Backside Signal)**: The BSS structure integrates backside interconnects with advanced **BS Interconnects**, enabling more efficient signal transmission and reducing the footprint of the overall chip. This architecture is especially useful for improving power delivery and thermal management in dense designs.
+
+4. **BSSF (Backside Stacked FET)**: This configuration integrates backside interconnects and self-aligned active regions. It improves signal integrity and provides a compact form factor, which is critical for high-performance applications, such as advanced logic and memory integration.
+
+Together, these architectural innovations represent cutting-edge approaches to overcoming the challenges of transistor scaling, providing enhanced electrical performance, and optimizing chip design for the next generation of high-density, high-performance systems.
+
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Process.jpg" title="Process Flow for Flip FET" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+   An Example Process Flow for Flip FET 
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The figure outlines the **Flip FET process flow**, which includes key innovations necessary for its development:
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+1. **Frontside Processing**: Involves patterning and depositing key layers, requiring precision in material deposition and patterning techniques.
+2. **Frontside Layering and Interconnects**: Focuses on creating interconnections with innovations in low-resistance materials and fine-pitch techniques.
+3. **Backside Processing**: Introduces challenges in wafer thinning and backside alignment, essential for achieving the 3D Flip FET structure.
+4. **Backside Layering and Interconnects**: Requires advanced bonding and stacking techniques, ensuring robust connections and maintaining performance.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+These stages highlight the need for innovations in 3D integration, wafer thinning, and precise bonding to create high-performance, compact Flip FET devices.

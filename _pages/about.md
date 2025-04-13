@@ -41,3 +41,7 @@ I am an associate professor at the School of Integrated Circuits of Peking Unive
 
 <ins>THINK, THINK DIFFERENT and HARD WORKING.</ins>
 
+---
+> If you want to be successful, attitude is everything. We have all the knowledge you need and you ought to be ready to have the attitude to do something with it.
+> —Robert H. Dennard (IBM Life Fellow, Inventor of DRAM & Scaling Law)
+---

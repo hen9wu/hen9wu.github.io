@@ -1,80 +1,34 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Technology Definition
+description: Pathfinding for Next-Gen Technology 
+img: assets/img/Roadmaps.jpg
+importance: 5
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Pathfinding for Logic Technology** is a critical process in the design and optimization of semiconductor circuits. It involves determining the most efficient routes for connecting different components of a logic circuit, ensuring minimal delay, power consumption, and signal interference. As semiconductor devices become more complex, the importance of advanced pathfinding algorithms increases, helping to navigate the challenges of increasingly smaller, denser, and faster circuits.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Innovative pathfinding techniques are essential for addressing issues like routing congestion, minimizing power loss, and meeting performance targets in advanced logic technologies. By utilizing intelligent algorithms and optimization methods, pathfinding ensures that interconnections are made efficiently, helping to create reliable, high-performance logic devices for applications in everything from mobile devices to artificial intelligence systems.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Roadmaps.jpg" title="Semiconductor Roadmap" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+   The big trend of logic technology towards true 3D
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Above illustrates the evolving pathfinding and architectural innovations in **3D integration** for future CMOS technology. The different stages represented by **BSPDN**, **FFET**, **F3D**, and **H3D** offer a visual roadmap for the continuous miniaturization and optimization of semiconductor devices.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+1. **BSPDN (Backside Routing)**: This stage is likened to a **Subway System**, where efficient routing is managed at the backside of the wafer, enabling higher density and more efficient connections. Innovations in backside routing will be key in advancing 3D integration, allowing for faster data transmission and minimizing interconnect delays.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+2. **FFET (Backside Stacking)**: Represented by an **Underground City**, this method involves stacking transistors on the backside of the wafer, increasing the number of active components while reducing the footprint. The ability to stack logic and memory components enables more powerful, compact devices.
 
-{% raw %}
+3. **F3D (Dual-sided Bonding)**: This concept is illustrated as a **Vertical City**, where both sides of the wafer are bonded together to create a fully integrated 3D structure. This dual-sided approach aims to optimize space utilization and provide better thermal management, offering significant performance gains in complex CMOS devices.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+4. **H3D (Dual-sided Chiplet)**: Depicted as a **Vertical Metropolitan**, this architecture involves further advancements in dual-sided chiplets, stacking multiple functional modules or chiplets to create highly integrated, flexible, and scalable systems. H3D represents the future of high-performance computing, providing a path to future-proof technology with modularity and flexibility.
 
-{% endraw %}
+In summary, these stages demonstrate the progression of 3D integration in CMOS technology, emphasizing the importance of pathfinding for **efficient routing, stacking, and bonding** as the industry moves toward more compact, powerful, and scalable systems. These innovations will enable the development of the next generation of semiconductor devices, pushing the boundaries of Moore's Law and meeting the growing demands for high-performance, energy-efficient electronics.

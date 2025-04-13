@@ -1,81 +1,31 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: 3D Integration
+description: 3D integration enables the continuous scaling beyond Moore's Law  
+img: assets/img/3D_integration.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**3D Integration for CMOS Logic Technology** is an advanced semiconductor packaging technique that enables the stacking of multiple layers of integrated circuits (ICs) vertically. This approach significantly enhances the performance and functionality of CMOS (Complementary Metal-Oxide-Semiconductor) logic devices while reducing the footprint and power consumption. By stacking chips in a 3D configuration, the distance between components is minimized, allowing for faster signal transmission and improved bandwidth. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This technology is particularly beneficial in addressing the challenges of Moore's Law, enabling the continued miniaturization of devices without compromising performance. 3D integration also facilitates the integration of heterogeneous components, such as memory and logic, within a single package, enabling new applications in high-performance computing, mobile devices, and IoT systems. As the demand for faster, smaller, and more energy-efficient electronics continues to grow, 3D Integration is poised to play a crucial role in the future of CMOS logic technology.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3D_integration.jpg" title="3D_integration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+   3D Integrations for Future's Computing Hardwares
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The figure showcases 3D Integration for CMOS logic technology with a focus on a stacked die architecture for advanced semiconductor systems. It visually represents the process of vertically stacking multiple layers of integrated circuits (ICs) to form a 3D package, a technique commonly used to enhance performance and reduce the footprint of devices.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+On the left side, a diagram shows a cross-sectional view of multiple stacked dies, each featuring different technologies such as Hybrid Bonding, MRAM, CMOS, and DRAM. These dies are stacked with fine pitch alignment and hybrid bonding to create a high-density, high-performance package. The lowest die contains FlipFET technology for logic and cache, while the higher layers incorporate memory and logic functionality.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+On the right side, a fictional 3D rendering of stacked semiconductor packages shows the physical representation of the dies, arranged like high-rise buildings in a city. The focus is on how each layer contributes to the overall system, demonstrating the compact nature of 3D integration, with numerous stacked layers representing diverse functionalities like memory, logic, and processing.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+This illustration emphasizes how 3D integration enables advanced functionality in smaller form factors, supporting high-performance computing applications, and highlights the increasing complexity of modern semiconductor technology.
