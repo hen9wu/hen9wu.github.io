@@ -35,6 +35,9 @@ I am an associate professor at the School of Integrated Circuits of Peking Unive
 
 **Recognitions**: I am a recipient of Best Paper Awards of several renowned conferences such as <a href='http://www.vlsisymposium.org/'>VLSI</a>2024, <a href='https://2025.deviceresearchconference.org/'>DRC</a>2015, <a href='https://www.src.org/calendar/e005106/'>TECHON</a>2015 and <a href='https://www.ieeesisc.org/'>SISC</a>2013. I also received the IEEE Paul Rappaport Award and was appointed as "IBM Master Inventor".
 
-**Openings**: The group has openings for potential graduate students and Post-doc researchers. You are strongly encouraged to read two textbooks: _<Fundamentals of Modern VLSI Devices> by Tak H. Ning and      Yuan Taur_ and _<Digital Integrated Circuits, A Design Perspective> by Jan. Rabaey._
+**Openings**: The group has openings for potential graduate students and Post-doc researchers. You are strongly encouraged to read two textbooks: _< Fundamentals of Modern VLSI Devices> by Tak H. Ning & Yuan Taur_ and _< Digital Integrated Circuits, A Design Perspective> by Jan. Rabaey._
 
-**Expectation for Potential Students**: Problem-solving,Team-working and Enthusiasm. **_THINK, THINK DIFFERENT and HARD WORKING._**
+**Expectation for Potential Students**: Problem-solving,Team-working and Enthusiasm. 
+
+<ins>THINK, THINK DIFFERENT and HARD WORKING.</ins>
+

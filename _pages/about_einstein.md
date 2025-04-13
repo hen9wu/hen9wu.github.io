@@ -1,5 +1,2 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Heng Wu is an Associate Professor in the School of Integrated Circuits at Peking University. He received the Ph.D. degree in Electrical and Computer Engineering from Purdue University in early 2016. After graduation, he joined IBM T. J. Watson Research Center in Albany N.Y. USA as a research staff member. He joined Peking University in early 2023. 
+His research focuses mainly on high speed and low power CMOS devices and circuits, transistors architecture and design technology co-optimization(DTCO). Prof. Wu has published more than 80 papers and received 4 best paper awards (including VLSI symposium). He has filed more than 450 patents (with 150 patents granted). He is an IBM Master Inventor and recipient of IEEE Paul Rappaport Award.
