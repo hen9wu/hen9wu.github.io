@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i> The Power of Nature is Unbelievable</i>
+subtitle: <p><em> The Power of Nature is Unbelievable</em> </p> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <strong> Associate Professor </strong>
+    <p><strong>Associate Professor</strong></p>    
     <p> <a href='https://ic.pku.edu.cn/index.htm'>School of Integrated Circuits</a> </p>
     <p> <a href='https://www.pku.edu.cn/'>Peking University</a> </p>
 
