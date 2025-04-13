@@ -2,7 +2,7 @@
 layout: post
 title: One Paper Accepted in IEEE VLSI 2024, congratulations to Haoran and Yandong  
 date: 2024-04-03 16:11:00-0400
-inline: True
+inline: false
 related_posts: false
 ---
 
