@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-dtco-device-team-pku",
-          title: "DTCO Device Team @ PKU",
+        },{id: "nav-dtco-team",
+          title: "DTCO Team",
           description: "meet members of the group",
           section: "Navigation",
           handler: () => {
