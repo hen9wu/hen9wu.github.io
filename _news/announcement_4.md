@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-For the research on FFET Demo, FFET DTCO and DSVFET Demo.
+For the research on FFET Demo (Yandong/Yanbang), FFET DTCO (Wanyue/Haoran) and DSVFET Demo (Yu).

@@ -10,6 +10,6 @@ Prof. Wu Joined Peking University as an Associate Professor
 
 ---
 
-\ _**THINK, THINK DIFFERENT and HARDWORKING**_
+_**THINK, THINK DIFFERENT and HARDWORKING**_
 
 ---

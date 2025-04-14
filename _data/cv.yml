@@ -72,7 +72,7 @@
       items:
         - Best paper award ~ IEEE SISC Conference
 
-- title: SELECTED PUBLICATIONS
+- title: Selected Publications
   type: nested_list
   contents:
     - title: Patents
