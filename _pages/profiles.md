@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: DTCO Device Team @ PKU
+title: DTCO Team
 description: meet members of the group 
 nav: true
 nav_order: 7
