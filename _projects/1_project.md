@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DTCO
-description: Design Technology Co-optimization
+description: Design Technology Co-optimization is key in bleeding edge nodes
 img: assets/img/DTCO.jpg
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tech. Definition
-description: Pathfinding for Next-Gen Technology 
+description: Architecture Pathfinding to Identify Next-Gen Technology
 img: assets/img/Roadmaps.jpg
 importance: 5
 category: work

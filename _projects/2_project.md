@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3D Integration
-description: 3D integration enables the continuous scaling beyond Moore's Law  
+description: 3D integration enables the scaling beyond Moore's Law  
 img: assets/img/3D_Integration.jpg
 importance: 2
 category: work
