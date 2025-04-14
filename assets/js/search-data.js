@@ -10,28 +10,28 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "Under construction.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Description for courses I taught.",
           section: "Navigation",
           handler: () => {
@@ -93,12 +93,12 @@ ninja.data = [{
               window.location.href = "/news/announcement_4/";
             },},{id: "projects-dtco",
           title: 'DTCO',
-          description: "Design Technology Co-optimization",
+          description: "Design Technology Co-optimization is key in bleeding edge nodes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-3d-integration",
           title: '3D Integration',
-          description: "3D integration enables the continuous scaling beyond Moore&#39;s Law",
+          description: "3D integration enables the scaling beyond Moore&#39;s Law",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-stacking-fets",
@@ -106,14 +106,14 @@ ninja.data = [{
           description: "Flip FET is a revolutionary transistor stacking technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-dual-sided-cir",
-          title: 'Dual-sided Cir.',
+            },},{id: "projects-dualside-design",
+          title: 'Dualside Design',
           description: "The circuit design innovations for both sides of wafer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-tech-definition",
           title: 'Tech. Definition',
-          description: "Pathfinding for Next-Gen Technology",
+          description: "Architecture Pathfinding to Identify Next-Gen Technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-teambuilding",
