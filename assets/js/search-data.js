@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
+        },{id: "nav-research",
+          title: "Research",
           description: "Under construction.",
           section: "Navigation",
           handler: () => {
@@ -148,13 +148,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=Ewp3OhkAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://ic.pku.edu.cn/szdw/zzjs/jcwndzx1/wh/index.htm", "_blank");
         },
       },{
       id: 'light-theme',
