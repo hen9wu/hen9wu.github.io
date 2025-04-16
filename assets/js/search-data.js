@@ -81,11 +81,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-jiacheng-sun-won-best-poster-award-in-the-19th-national-semiconductor-and-integrated-technology-conference",
+            },},{id: "news-jiacheng-sun-won-best-poster-award-in-the-19th-national-semiconductor-and-integrated-technology-conference-congratulations",
           title: 'Jiacheng Sun Won Best Poster Award in The 19th National Semiconductor and Integrated...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-jiacheng-sun-won-excellent-poster-award-in-the-annual-post-moore-conference-congratulations",
+          title: 'Jiacheng Sun Won Excellent Poster Award in the annual Post-Moore conference, congratulations!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
             },},{id: "news-yimeng-wang-won-best-paper-in-ieee-edtm-2024-congratulations",
           title: 'Yimeng Wang Won Best Paper in IEEE EDTM 2024, congratulations!',
           description: "",
