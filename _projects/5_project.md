@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech. Definition
+title: Beyond Moore
 description: Architecture Pathfinding to Identify Next-Gen Technology
 img: assets/img/Roadmaps.jpg
 importance: 5
