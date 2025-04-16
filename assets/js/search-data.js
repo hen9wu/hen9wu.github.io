@@ -81,6 +81,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-jiacheng-sun-won-best-poster-award-in-the-19th-national-semiconductor-and-integrated-technology-conference",
+          title: 'Jiacheng Sun Won Best Poster Award in The 19th National Semiconductor and Integrated...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
             },},{id: "news-yimeng-wang-won-best-paper-in-ieee-edtm-2024-congratulations",
           title: 'Yimeng Wang Won Best Paper in IEEE EDTM 2024, congratulations!',
           description: "",
@@ -111,8 +116,8 @@ ninja.data = [{
           description: "The circuit design innovations for both sides of wafer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-tech-definition",
-          title: 'Tech. Definition',
+            },},{id: "projects-beyond-moore",
+          title: 'Beyond Moore',
           description: "Architecture Pathfinding to Identify Next-Gen Technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
