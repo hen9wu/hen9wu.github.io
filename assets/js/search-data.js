@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-events",
+          title: "Events",
+          description: "Team Events",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Life/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Description for courses I taught.",
@@ -37,8 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-dtco-team",
-          title: "DTCO Team",
+        },{id: "nav-members",
+          title: "Members",
           description: "meet members of the group",
           section: "Navigation",
           handler: () => {
@@ -111,8 +118,8 @@ ninja.data = [{
           description: "3D integration enables the scaling beyond Moore&#39;s Law",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-stacking-fets",
-          title: 'Stacking FETs',
+            },},{id: "projects-novel-transistors",
+          title: 'Novel Transistors',
           description: "Flip FET is a revolutionary transistor stacking technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
