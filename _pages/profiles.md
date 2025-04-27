@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: DTCO Team
+title: Members
 description: meet members of the group 
 nav: true
 nav_order: 7
