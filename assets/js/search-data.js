@@ -118,8 +118,8 @@ ninja.data = [{
           description: "3D integration enables the scaling beyond Moore&#39;s Law",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-novel-transistors",
-          title: 'Novel Transistors',
+            },},{id: "projects-novel-strct",
+          title: 'Novel Strct.',
           description: "Flip FET is a revolutionary transistor stacking technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
@@ -133,11 +133,6 @@ ninja.data = [{
           description: "Architecture Pathfinding to Identify Next-Gen Technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-teambuilding",
-          title: 'Teambuilding',
-          description: "The team",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
