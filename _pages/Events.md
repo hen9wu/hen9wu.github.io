@@ -11,7 +11,7 @@ nav_order: 6
 # 2025 Apr.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/group/Goup_2025_04.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_2025_04.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -22,7 +22,7 @@ nav_order: 6
 # 2024 Aug.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/group/Goup_2024_08.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_2024_08.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,7 +33,7 @@ nav_order: 6
 # 2024 Mar.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/group/Goup_2024_03.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_2024_03.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -44,7 +44,7 @@ nav_order: 6
 # 2024 Jan.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/group/Goup_2024_01.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_2024_01.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -55,7 +55,7 @@ nav_order: 6
 # 2023 Oct.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/group/Goup_2023.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_2023.jpg" title="Team_2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
