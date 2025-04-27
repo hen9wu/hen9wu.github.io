@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stacking FETs
+title: Novel Transistors
 description: Flip FET is a revolutionary transistor stacking technology
 img: assets/img/Technology.jpg
 importance: 3
