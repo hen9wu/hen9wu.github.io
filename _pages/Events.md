@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Life/
-title: Events
+title: Gallery
 description: Team Events
 nav: true
 nav_order: 6
