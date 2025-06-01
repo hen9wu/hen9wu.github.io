@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-events",
-          title: "Events",
+        },{id: "nav-gallery",
+          title: "Gallery",
           description: "Team Events",
           section: "Navigation",
           handler: () => {
@@ -118,9 +118,9 @@ ninja.data = [{
           description: "3D integration enables the scaling beyond Moore&#39;s Law",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-novel-strct",
-          title: 'Novel Strct.',
-          description: "Flip FET is a revolutionary transistor stacking technology",
+            },},{id: "projects-novel-device",
+          title: 'Novel Device',
+          description: "Innovative Device to Drive IC further",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-dualside-design",
