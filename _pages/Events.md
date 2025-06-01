@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Life/
-title: Events
+title: Gallery
 description: Team Events
 nav: true
 nav_order: 6
@@ -15,7 +15,7 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-   Team Photo Taken at Apr. 2025 after Mid-Semester check
+   Team Photo Taken at Apr. 2025 after Mid-Semester check [Baiwang Mountain Park]
 </div>
 
 ---
@@ -26,7 +26,7 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-   Team Photo Taken at Aug. 2024 after annual team building
+   Team Photo Taken at Aug. 2024 after annual team building [A Clubhouse]
 </div>
 
 ---
@@ -37,7 +37,7 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-   Team Photo Taken at Mar. 2024 after Mid-Semester check
+   Team Photo Taken at Mar. 2024 after Mid-Semester check [Pizza Restaurant]
 </div>
 
 ---
@@ -48,7 +48,7 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-   Team Photo Taken at Jan. 2024 after 2024 Fall Semester
+   Team Photo Taken at Jan. 2024 after 2024 Fall Semester [A Chinese Restaurant]
 </div>
 
 ---
@@ -59,6 +59,6 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-   First Team Photo Taken at Oct. 2023
+   First Team Photo Taken at Oct. 2023 [A Clubhouse]
 </div>
 
