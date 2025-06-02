@@ -45,11 +45,3 @@ Associate professor at the School of Integrated Circuits of Peking University fr
 > If you want to be successful, attitude is everything. We have all the knowledge you need and you ought to be ready to have the attitude to do something with it. \
 > —_Robert H. Dennard_
 ---
-
----
-> Integrated circuits (ICs) are the backbone of modern society, shaping industries from AI to automotive systems and beyond. If you aspire to push the boundaries of semiconductor device and design innovation, our team offers a dynamic environment where curiosity meets impact. \
-> 
-> Here, you’ll engage in rigorous exploration of foundational processes, precision-driven model simulation, creative standard cell design, detailed parasitic analysis, and end-to-end PPA (Power, Performance, Area) optimization. Whether refining frontend architectures or streamlining backend integration, you’ll collaborate with driven peers to solve real-world problems and drive industry progress.\
-> 
-> We seek passionate, inventive minds with a solid technical foundation and a hunger to excel in IC. Whether you’re a budding scholar or a seasoned graduate, your dedication to this field will thrive. Ready to turn theoretical knowledge into technological breakthroughs? Join us, and together, we’ll work towards the real problem with in-depth contributions.
----
