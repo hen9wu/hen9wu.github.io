@@ -29,7 +29,7 @@ latest_posts:
 
 Associate professor at the School of Integrated Circuits of Peking University from 2023.
 
-**Experiences**: Research Staff Member at <a href='https://research.ibm.com/labs/albany/'>IBM T. J. Watson Research Center</a> in New York State, USA from 2016 to 2022, working towards _Next-gen Logic Development_. Prior to this, I received the Ph.D. degree in Electrical and Computer Engineering from Purdue University under Professor <a href='https://engineering.purdue.edu/~yep/'>P.D. Ye</a> in 2016, with a thesis on _Beyond Si CMOS _. 
+**Experiences**: Research Staff Member at <a href='https://research.ibm.com/labs/albany/'>IBM T. J. Watson Research Center</a> in New York State, USA from 2016 to 2022, working towards _Next-gen Logic Development_. Prior to this, I received the Ph.D. degree in Electrical and Computer Engineering from Purdue University under Professor <a href='https://engineering.purdue.edu/~yep/'>P.D. Ye</a> in 2016, with a thesis on _Beyond Si CMOS_. 
 
 **Research**: My research focuses on Design Technology Co-optimization (<a href='https://www.imec-int.com/en/articles/getting-most-out-your-system'>DTCO</a>), <a href='https://spectrum.ieee.org/3d-cmos'>3D Integration</a>, <a href='https://www.semiconductor-digest.com/new-structure-transistors-for-advanced-technology-node-cmos-ics/'>VLSI Device&Design</a> and Semiconductor Devices&Physics. I have published more than 80 papers/book chapters and filed more than 500 US/China/EU patents.
 
@@ -47,7 +47,9 @@ Associate professor at the School of Integrated Circuits of Peking University fr
 ---
 
 ---
-> Integrated circuits (ICs) are the backbone of modern society, shaping industries from AI to automotive systems and beyond. If you aspire to push the boundaries of semiconductor device and design innovation, our team offers a dynamic environment where curiosity meets impact.
-> Here, you’ll engage in rigorous exploration of foundational processes, precision-driven model simulation, creative standard cell design, detailed parasitic analysis, and end-to-end PPA (Power, Performance, Area) optimization. Whether refining frontend architectures or streamlining backend integration, you’ll collaborate with driven peers to solve real-world problems and drive industry progress.
+> Integrated circuits (ICs) are the backbone of modern society, shaping industries from AI to automotive systems and beyond. If you aspire to push the boundaries of semiconductor device and design innovation, our team offers a dynamic environment where curiosity meets impact. \
+> 
+> Here, you’ll engage in rigorous exploration of foundational processes, precision-driven model simulation, creative standard cell design, detailed parasitic analysis, and end-to-end PPA (Power, Performance, Area) optimization. Whether refining frontend architectures or streamlining backend integration, you’ll collaborate with driven peers to solve real-world problems and drive industry progress.\
+> 
 > We seek passionate, inventive minds with a solid technical foundation and a hunger to excel in IC. Whether you’re a budding scholar or a seasoned graduate, your dedication to this field will thrive. Ready to turn theoretical knowledge into technological breakthroughs? Join us, and together, we’ll work towards the real problem with in-depth contributions.
 ---
