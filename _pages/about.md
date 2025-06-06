@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Associate professor at the School of Integrated Circuits of Peking University from 2023.
+**Heng Wu**, Associate professor at the School of Integrated Circuits of Peking University from 2023.
 
 **Experiences**: Research Staff Member at <a href='https://research.ibm.com/labs/albany/'>IBM T. J. Watson Research Center</a> in New York State, USA from 2016 to 2022, working towards _Next-gen Logic Development_. Prior to this, I received the Ph.D. degree in Electrical and Computer Engineering from Purdue University under Professor <a href='https://engineering.purdue.edu/~yep/'>P.D. Ye</a> in 2016, with a thesis on _Beyond Si CMOS_. 
 
