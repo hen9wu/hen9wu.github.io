@@ -108,6 +108,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
+            },},{id: "news-the-dtco-device-lab-gives-3-talks-in-vlsi-2025",
+          title: 'The DTCO Device Lab Gives 3 Talks in VLSI 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
             },},{id: "projects-dtco",
           title: 'DTCO',
           description: "Design Technology Co-optimization is key in bleeding edge nodes",
