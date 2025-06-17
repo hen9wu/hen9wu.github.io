@@ -2,13 +2,14 @@
 
 # PhD Students
 
-| Students    |   Year   |              From |                                    Notes |
-|:------------|:--------:|------------------:|-----------------------------------------:|
-| Haoran Lu   | 2023-Now |    BS: EECS @ PKU |            Co-advised with Prof. R. Wang |
-| Yandong Ge  | 2024-Now |     MS: EE @ UCAS |                                          |
-| Wanyue Peng | 2024-Now | BS: EE @ Nankai U |                                          |
-| Yu Liu      | 2024-Now |    BS: EECS @ BIT |                                          |
-| Rui Guo     | 2024-Now |BS: EE @ Nankai U| Co-advised with Prof. R. Wang & L. Zhang |
+| Students      |   Year   |              From |                                    Notes |
+|:--------------|:--------:|------------------:|-----------------------------------------:|
+| Haoran Lu     | 2023-Now |    BS: EECS @ PKU |            Co-advised with Prof. R. Wang |
+| Fangcheng Sun | 2023-Now |              SJTU |              Co-advised with Prof. Z. Ji |
+| Yandong Ge    | 2024-Now |     MS: EE @ UCAS |                                          |
+| Wanyue Peng   | 2024-Now | BS: EE @ Nankai U |                                          |
+| Yu Liu        | 2024-Now |    BS: EECS @ BIT |                                          |
+| Rui Guo       | 2024-Now | BS: EE @ Nankai U | Co-advised with Prof. R. Wang & L. Zhang |
 
 ---
 
