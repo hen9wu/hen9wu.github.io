@@ -7,6 +7,18 @@ nav: true
 nav_order: 6
 ---
 
+
+---
+# 2025 Jun.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_202506.jpg" title="graduation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Team Photo Taken at end of June 2025 to calibrate the graduation of several folks
+</div>
+
 ---
 # 2025 Apr.
 <div class="row">
