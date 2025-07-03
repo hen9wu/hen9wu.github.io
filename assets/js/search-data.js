@@ -113,6 +113,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
+            },},{id: "news-the-flip-fet-concept-gains-attentions-in-the-field",
+          title: 'The Flip FET concept gains attentions in the field',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
             },},{id: "projects-dtco",
           title: 'DTCO',
           description: "Design Technology Co-optimization is key in bleeding edge nodes",
