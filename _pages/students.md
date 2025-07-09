@@ -34,6 +34,7 @@
 | Jianxiang Jin | 2023-Now |    BS: EECS @ PKU |  Senior   |
 | Xiangyu Yan   | 2024-Now |    BS: EECS @ PKU |  Senior   |
 | Ziqiao Xu     | 2024-Now |    BS: EECS @ PKU |  Senior   |
+| Xingjian Mao  | 2025-Now |    BS: EECS @ PKU |  Senior   |
 | Jingru Jiang  | 2024-Now |   BS: EECS @ HUST |  Senior   |
 | Xinyue He     | 2024-Now |    BS: EECS @ PKU |  Junior   |
 | Siyuan Liu    | 2024-Now |    BS: EECS @ PKU |  Junior   |
@@ -41,10 +42,11 @@
 | Yibo Zhang    | 2024-Now |    BS: EECS @ PKU | Sophomore |
 | Xiang Li      | 2024-Now | BS: Yuanpei @ PKU | Sophomore |
 
+---
 # Alumni 
 
-| Master Students |   Year    | Where |
-|:----------------|:---------:|------:|
-| Yimeng Wang     | 2022-2025 |  CXMT | 
-| Zhihao Wang     | 2022-2025 |  ICRD | 
-| Lei Zhang       | 2022-2025 |  CXMT |
+| Master Students |   Year    | Current Location |
+|:----------------|:---------:|-----------------:|
+| Yimeng Wang     | 2022-2025 |             CXMT | 
+| Zhihao Wang     | 2022-2025 |             ICRD | 
+| Lei Zhang       | 2022-2025 |             CXMT |
