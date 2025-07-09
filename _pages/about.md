@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Associate Professor</strong></p>    
+    <p><strong>Heng Wu</strong></p>
+    <p> <strong>Associate Professor</strong></p>    
     <p> <a href='https://ic.pku.edu.cn/index.htm'>School of Integrated Circuits</a> </p>
     <p> <a href='https://www.pku.edu.cn/'>Peking University</a> </p>
+    <p> hengwu at pku.edu.cn </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
