@@ -41,4 +41,10 @@
 | Yibo Zhang    | 2024-Now |    BS: EECS @ PKU | Sophomore |
 | Xiang Li      | 2024-Now | BS: Yuanpei @ PKU | Sophomore |
 
+# Alumni 
 
+| Master Students |   Year    | Where |
+|:----------------|:---------:|------:|
+| Yimeng Wang     | 2022-2025 |  CXMT | 
+| Zhihao Wang     | 2022-2025 |  ICRD | 
+| Lei Zhang       | 2022-2025 |  CXMT |
