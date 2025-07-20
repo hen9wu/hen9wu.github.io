@@ -9,6 +9,18 @@ nav_order: 6
 
 
 ---
+# 2025 Jul.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_202507IEDM.jpg" title="IEDM" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Working-group Photo Taken at early July for a Conference Deadline [Zhaolin Plaza Office]
+</div>
+
+
+---
 # 2025 Jun.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -16,7 +28,7 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-   Team Photo Taken at end of June 2025 to calibrate the graduation of several folks
+   Team Photo Taken at end of June 2025 to calibrate the graduation of several folks [IMNE Building]
 </div>
 
 ---
