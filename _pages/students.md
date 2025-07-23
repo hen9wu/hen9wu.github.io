@@ -17,9 +17,6 @@
 
 | Students    |   Year   |     From |
 |:------------|:--------:|---------:|
-| Yimeng Wang | 2022-Now | BS: BJFU | 
-| Zhihao Wang | 2022-Now | BS: BUCT | 
-| Lei Zhang   | 2022-Now |  BS: SCU |
 | Feiyu Teng  | 2022-Now | BS: CUGB | 
 | Qili Fu     | 2023-Now |  BS: JNU |
 | Chuan Lan   | 2024-Now |  BS: SCU |
