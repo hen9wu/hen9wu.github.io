@@ -2,48 +2,52 @@
 
 # PhD Students
 
-| Students      |   Year   |              From |                                    Notes |
-|:--------------|:--------:|------------------:|-----------------------------------------:|
-| Haoran Lu     | 2023-Now |    BS: EECS @ PKU |            Co-advised with Prof. R. Wang |
-| Fangcheng Sun | 2023-Now |              SJTU |              Co-advised with Prof. Z. Ji |
-| Yandong Ge    | 2024-Now |     MS: EE @ UCAS |                                          |
-| Wanyue Peng   | 2024-Now | BS: EE @ Nankai U |                                          |
-| Yu Liu        | 2024-Now |    BS: EECS @ BIT |                                          |
-| Rui Guo       | 2024-Now | BS: EE @ Nankai U | Co-advised with Prof. R. Wang & L. Zhang |
+| Students      |    Year    |              From |                                    Notes |
+|:--------------|:----------:|------------------:|-----------------------------------------:|
+| Haoran Lu     | 2023F-Now  |    BS: EECS @ PKU |            Co-advised with Prof. R. Wang |
+| Fangcheng Sun | 2023F-Now  |              SJTU |              Co-advised with Prof. Z. Ji |
+| Yandong Ge    | 2024F-Now  |     MS: EE @ UCAS |                                          |
+| Wanyue Peng   | 2024F-Now  | BS: EE @ Nankai U |                                          |
+| Yu Liu        | 2024F-Now  |    BS: EECS @ BIT |                                          |
+| Rui Guo       | 2024F-Now  | BS: EE @ Nankai U | Co-advised with Prof. R. Wang & L. Zhang |
+| Feiyu Teng    | 2025F-Now  |           MS: PKU |                                          |
+| Jianxiang Jin | 2025F-Now  |    BS: EECS @ PKU |                                          |
+| Jiacheng Sun  | 2025F-Now  |    BS: EECS @ PKU |                                          |
+
+
 
 ---
 
 # Master Students
 
-| Students    |   Year   |     From |
-|:------------|:--------:|---------:|
-| Feiyu Teng  | 2022-Now | BS: CUGB | 
-| Qili Fu     | 2023-Now |  BS: JNU |
-| Chuan Lan   | 2024-Now |  BS: SCU |
+| Students     |   Year    |          From |
+|:-------------|:---------:|--------------:|
+| Qili Fu      | 2023F-Now |       BS: JNU |
+| Chuan Lan    | 2024F-Now |       BS: SCU |
+| Jingru Jiang | 2025F-Now | BS: EECS@HUST |
+| Xiangyu Yan  | 2025F-Now |  BS: EECS@PKU |
+| Ziqiao Xu    | 2025F-Now |  BS: EECS@PKU |
+| Xingjian Mao | 2025F-Now |  BS: EECS@PKU |
+
 
 ---
 
 # Undergraduate Students
 
-| Students      |   Year   |              From |   Year    |
-|:--------------|:--------:|------------------:|:---------:|
-| Jiacheng Sun  | 2023-Now |    BS: EECS @ PKU |  Senior   |
-| Jianxiang Jin | 2023-Now |    BS: EECS @ PKU |  Senior   |
-| Xiangyu Yan   | 2024-Now |    BS: EECS @ PKU |  Senior   |
-| Ziqiao Xu     | 2024-Now |    BS: EECS @ PKU |  Senior   |
-| Xingjian Mao  | 2025-Now |    BS: EECS @ PKU |  Senior   |
-| Jingru Jiang  | 2024-Now |   BS: EECS @ HUST |  Senior   |
-| Xinyue He     | 2024-Now |    BS: EECS @ PKU |  Junior   |
-| Siyuan Liu    | 2024-Now |    BS: EECS @ PKU |  Junior   |
-| Yuji Cheng    | 2024-Now |    BS: EECS @ PKU |  Junior   |
-| Yibo Zhang    | 2024-Now |    BS: EECS @ PKU | Sophomore |
-| Xiang Li      | 2024-Now | BS: Yuanpei @ PKU | Sophomore |
+| Students   |    Year   |              From |  Year  |
+|:-----------|:---------:|------------------:|:------:|
+| Xinyue He  | 2024F-Now |    BS: EECS @ PKU | Senior |
+| Siyuan Liu | 2024F-Now |    BS: EECS @ PKU | Senior |
+| Yuji Cheng | 2024F-Now |    BS: EECS @ PKU | Senior |
+| Yibo Zhang | 2024F-Now |    BS: EECS @ PKU | Junior |
+| Xiang Li   | 2024F-Now | BS: Yuanpei @ PKU | Junior |
+| Qianyu Lou | 2025F-Now |    BS: EECS @ PKU | Junior |
 
 ---
 # Alumni 
 
 | Master Students |   Year    | Current Location |
 |:----------------|:---------:|-----------------:|
-| Yimeng Wang     | 2022-2025 |             CXMT | 
-| Zhihao Wang     | 2022-2025 |             ICRD | 
-| Lei Zhang       | 2022-2025 |             CXMT |
+| Yimeng Wang     | 2022-2025 |      DTCO @ CXMT | 
+| Zhihao Wang     | 2022-2025 |        TD @ ICRD | 
+| Lei Zhang       | 2022-2025 |      DTCO @ CXMT |
