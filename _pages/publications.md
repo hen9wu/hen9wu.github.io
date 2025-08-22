@@ -14,7 +14,8 @@ nav_order: 2
 ---
 
 ## Invited talks
-1. H. Wu "Flip 3D(F3D): A novel 3D Integration Technology Enabled by the Advanced Bonding", _International Workshop on Low Temperature Bonding for 3D Integration (LTB-3D)_, Tianjing, China, Aug., 2025  
+1. H. Wu "OPPORTUNITIES FOR ADVANCED LOGIC TECHNOLOGY WITH DUAL-SIDED INTEGRATIONS: FROM LATERAL TO VERTICAL TRANSISTORS ",_2025 IEEE 16th International Conference on ASIC(ASICON)_, Kunming, China, Oct., 2025
+2. H. Wu "Flip 3D(F3D): A novel 3D Integration Technology Enabled by the Advanced Bonding", _International Workshop on Low Temperature Bonding for 3D Integration (LTB-3D)_, Tianjing, China, Aug., 2025  
 2. H. Wu, “3D Integration Innovations and Opportunities on Both Sides of Wafer: A Design Perspective”, _International Symposium of EDA 2025(ISEDA)_, Hong Kong SAR, China, May, 2025  
 2. H. Wu, “Flip 3D (F3D) A dual-sided integration technology for future's computing hardware”, _2025 CSTIC_, Shanghai, China, Mar., 2025   
 3. H. Wu, “From Flip FET to Flip 3D Integration (F3D): Maximizing the Scaling Potential of Wafer Both Sides Beyond Conventional 3D Integration”, _The 9th IEEE Electron Devices Technology and Manufacturing Conference (EDTM)_,Hong Kong SAR, China, Mar., 2025  
