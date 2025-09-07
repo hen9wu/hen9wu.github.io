@@ -6,10 +6,10 @@ subtitle: <p><em> The Power of Nature is Unbelievable</em> </p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Heng Wu</strong></p>
+    <p><strong>Heng Wu, </strong></p>
     <p> <strong>Associate Professor</strong></p>    
     <p> <a href='https://ic.pku.edu.cn/index.htm'>School of Integrated Circuits</a> </p>
     <p> <a href='https://www.pku.edu.cn/'>Peking University</a> </p>
