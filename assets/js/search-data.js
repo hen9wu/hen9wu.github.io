@@ -119,7 +119,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
             },},{id: "news-one-paper-was-accepted-by-ieee-iedm-congratulations-to-the-authors",
-          title: 'One Paper was accepted by IEEE IEDM, Congratulations to the authors',
+          title: 'One paper was accepted by IEEE IEDM, Congratulations to the authors',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
