@@ -10,5 +10,6 @@ Find more on Social Media:
 
 Here, you’ll engage in rigorous exploration of _**1** foundational processes_, _**2** precision-driven model simulation_, _**3** creative standard cell design_, _**4** detailed parasitic analysis_, and _**5** end-to-end PPA (Power, Performance, Area) optimization_. Whether refining frontend architectures or streamlining backend integration, you’ll collaborate with driven peers to solve real-world problems and drive industry progress.
 
-We are looking for passionate, inventive minds with a solid technical background and a hunger to excel in IC. Whether you’re a budding scholar or a seasoned graduate, your dedication to this field will thrive. Ready to turn theoretical knowledge into technological breakthroughs? Join us, and together, we’ll work towards the real problem with in-depth contributions.
+We are looking for passionate, inventive minds with a solid technical background and a hunger to excel in IC. Whether you’re a budding scholar or a seasoned graduate, your dedication to this field will thrive. 
 
+Ready to turn theoretical knowledge into technological breakthroughs? Join us, and together, we’ll work towards the real problem with in-depth contributions.
