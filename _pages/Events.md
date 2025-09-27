@@ -9,6 +9,18 @@ nav_order: 6
 
 
 ---
+# 2025 Sep.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_202509.jpg" title="TeamBuilding2025" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Team Photo Taken at Sep. 2024 after annual team building [A Guest House]
+</div>
+
+
+---
 # 2025 Jul.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
