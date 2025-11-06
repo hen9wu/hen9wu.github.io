@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2025-09-022 07:59:00-0400
-title: 1 Paper accepted in IEEE IEDM 2025, congratulations to the Ziqiao/Yanbang
+date: 2025-09-23 07:59:00-0400
+title: One paper was accepted by IEEE IEDM, Congratulations to the authors
 inline: false
 related_posts: false
 ---
-For the research on ultra scaling and boost for DSVFET proposed by the team.
-congratulations!
+For the work on scalability and performance enhancement for Dual-sided VFET By Ziqao and Yanbang. Congratulations!
