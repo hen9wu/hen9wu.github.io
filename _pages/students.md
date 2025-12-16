@@ -2,17 +2,18 @@
 
 # PhD Students
 
-| Students      |    Year    |              From |                                    Notes |
-|:--------------|:----------:|------------------:|-----------------------------------------:|
-| Haoran Lu     | 2023F-Now  |    BS: EECS @ PKU |            Co-advised with Prof. R. Wang |
-| Fangcheng Sun | 2023F-Now  |              SJTU |              Co-advised with Prof. Z. Ji |
-| Yandong Ge    | 2024F-Now  |     MS: EE @ UCAS |                                          |
-| Wanyue Peng   | 2024F-Now  | BS: EE @ Nankai U |                                          |
-| Yu Liu        | 2024F-Now  |    BS: EECS @ BIT |                                          |
-| Rui Guo       | 2024F-Now  | BS: EE @ Nankai U | Co-advised with Prof. R. Wang & L. Zhang |
-| Feiyu Teng    | 2025F-Now  |           MS: PKU |                                          |
-| Jianxiang Jin | 2025F-Now  |    BS: EECS @ PKU |                                          |
-| Jiacheng Sun  | 2025F-Now  |    BS: EECS @ PKU |                                          |
+| Students      |   Year    |              From |                                    Notes |
+|:--------------|:---------:|------------------:|-----------------------------------------:|
+| Haoran Lu     | 2023F-Now |    BS: EECS @ PKU |            Co-advised with Prof. R. Wang |
+| Fangcheng Sun | 2023F-Now |              SJTU |              Co-advised with Prof. Z. Ji |
+| Yandong Ge    | 2024F-Now |     MS: EE @ UCAS |                                          |
+| Wanyue Peng   | 2024F-Now | BS: EE @ Nankai U |                                          |
+| Yu Liu        | 2024F-Now |    BS: EECS @ BIT |                                          |
+| Rui Guo       | 2024F-Now | BS: EE @ Nankai U | Co-advised with Prof. R. Wang & L. Zhang |
+| Feiyu Teng    | 2025F-Now |           MS: PKU |                                          |
+| Jianxiang Jin | 2025F-Now |    BS: EECS @ PKU |                                          |
+| Jiacheng Sun  | 2025F-Now |    BS: EECS @ PKU |                                          |
+| Mingmin Lin   | 2025F-Now |    BS: EECS @ FZU |                                          |
 
 
 
