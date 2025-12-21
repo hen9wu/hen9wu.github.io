@@ -10,7 +10,7 @@ nav_order: 6
 # 2025 Nov.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/group/Group_202511.jpg" title="Mid-term OKR Review" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_2025_11.jpg" title="Mid-term OKR Review" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
