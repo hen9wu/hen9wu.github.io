@@ -6,6 +6,17 @@ description: Team Events
 nav: true
 nav_order: 6
 ---
+---
+# 2025 Nov.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_202511.jpg" title="Mid-term OKR Review" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Team Photo Taken at Nov. 2025 after 2025 Fall mid-term OKR review [A Restaurant]
+</div>
+
 
 
 ---
@@ -16,7 +27,7 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-   Team Photo Taken at Sep. 2024 after annual team building [A Guest House]
+   Team Photo Taken at Sep. 2025 after annual team building [A Guest House]
 </div>
 
 
