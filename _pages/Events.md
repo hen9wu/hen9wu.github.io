@@ -14,7 +14,7 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-   Team Photo Taken at Nov. 2025 after 2025 Fall mid-term OKR review [A Restaurant]
+   Team Photo Taken at Nov. 2025 after 2025 Fall mid-term checkpoint [A Restaurant]
 </div>
 
 
