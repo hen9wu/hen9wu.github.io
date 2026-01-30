@@ -101,6 +101,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
+            },},{id: "news-incoming-graduate-student-zhentao-won-eds-undergraduate-student-scholarship",
+          title: 'Incoming Graduate Student Zhentao Won EDS Undergraduate Student Scholarship',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
             },},{id: "projects-dtco",
           title: 'DTCO',
           description: "Design Technology Co-optimization is key in bleeding edge nodes",
