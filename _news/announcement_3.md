@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-03-26 07:59:00-0400
-title: Yimeng Wang Won Best Paper in IEEE EDTM 2024, congratulations!
+title: Yimeng Wang Won Best Paper in IEEE EDTM 2025, congratulations!
 inline: false
 related_posts: false
 ---
