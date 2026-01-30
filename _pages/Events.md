@@ -6,6 +6,18 @@ description: Team Events
 nav: true
 nav_order: 6
 ---
+
+# 2026 Jan.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/group/group_20260126VLSI.jpg" title="After 2026 VLSI Preparation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Team Photo Taken at Jan. 2026 after a conference deadline [The base]
+</div>
+
+
 ---
 # 2025 Nov.
 <div class="row">
@@ -16,8 +28,6 @@ nav_order: 6
 <div class="caption">
    Team Photo Taken at Nov. 2025 after 2025 Fall mid-term checkpoint [A Restaurant]
 </div>
-
-
 
 ---
 # 2025 Sep.
