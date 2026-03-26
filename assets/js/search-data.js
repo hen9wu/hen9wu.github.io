@@ -76,8 +76,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "news-yimeng-wang-won-best-paper-in-ieee-edtm-2024-congratulations",
-          title: 'Yimeng Wang Won Best Paper in IEEE EDTM 2024, congratulations!',
+            },},{id: "news-yimeng-wang-won-best-paper-in-ieee-edtm-2025-congratulations",
+          title: 'Yimeng Wang Won Best Paper in IEEE EDTM 2025, congratulations!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
