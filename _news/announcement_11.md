@@ -1,4 +1,4 @@
-9---
+---
 layout: post
 date: 2026-06-29 07:59:00-0400
 title: 3 students won excellent undergraduate thesis
