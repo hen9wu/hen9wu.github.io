@@ -106,6 +106,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
+            },},{id: "news-3-students-won-excellent-undergraduate-thesis",
+          title: '3 students won excellent undergraduate thesis',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_11/";
             },},{id: "projects-dtco",
           title: 'DTCO',
           description: "Design Technology Co-optimization is key in bleeding edge nodes",
