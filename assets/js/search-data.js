@@ -107,7 +107,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
             },},{id: "news-3-students-won-excellent-undergraduate-thesis",
-          title: '3 students won excellent undergraduate thesis',
+          title: '3 Students Won Excellent Undergraduate Thesis',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
