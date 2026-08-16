@@ -7,6 +7,29 @@ nav: true
 nav_order: 6
 ---
 
+
+# 2026 Jun.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_2026Summer.jpg" title="After 2026 Spring OKR Review" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Team Photo Taken at June 2026 after summary of 2026Spring Semester
+</div>
+
+
+# 2026 Jun.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/group/Group_2026IEDM.jpg" title="After 2026 IEDM Preparation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Working-group Photo Taken at June 2026 after a conference deadline
+</div>
+
+
 # 2026 Jul.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
