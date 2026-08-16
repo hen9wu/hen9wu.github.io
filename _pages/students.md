@@ -14,20 +14,27 @@
 | Jianxiang Jin |    BS: EECS @ PKU |                                          |
 | Jiacheng Sun  |    BS: EECS @ PKU |                                          |
 | Mingmin Lin   |    BS: EECS @ FZU |                                          |
-
-
+| Xinyue He     |    BS: EECS @ PKU |                                          |
+| Siyuan Liu    |    BS: EECS @ PKU |                                          |
+| Yuji Cheng    |    BS: EECS @ PKU |                                          |
 
 ---
 
 # Master Students
 
-| Students     |          From |
-|:-------------|--------------:|
-| Chuan Lan    |       BS: SCU |
-| Jingru Jiang | BS: EECS@HUST |
-| Xiangyu Yan  |  BS: EECS@PKU |
-| Ziqiao Xu    |  BS: EECS@PKU |
-| Xingjian Mao |  BS: EECS@PKU |
+| Students       |                                  From |
+|:---------------|--------------------------------------:|
+| Chuan Lan      |                               BS: SCU |
+| Jingru Jiang   |                         BS: EECS@HUST |
+| Xiangyu Yan    |                          BS: EECS@PKU |
+| Ziqiao Xu      |                          BS: EECS@PKU |
+| Xingjian Mao   |                          BS: EECS@PKU |
+| Zhentao Xiao   |                        BS: EECS@UETSC |
+| Chuangxin Zhou | BS: School of the Gifted Young @ USTC |
+| Mengyuan Qiang |                       BS: EECS @ XJTU |
+| Yifei Chen     |                        BS: EECS @ CQU |
+| Jiahao Zhang   |                       BS: EECS @ HUST | 
+
 
 
 ---
@@ -50,9 +57,16 @@
 ---
 # Alumni 
 
-| Master Students |   Year    | Current Location |
-|:----------------|:---------:|-----------------:|
-| Yimeng Wang     | 2022-2025 |      DTCO @ CXMT | 
-| Zhihao Wang     | 2022-2025 |        TD @ ICRD | 
-| Lei Zhang       | 2022-2025 |      DTCO @ CXMT |
-| Qili Fu         | 2023-2026 | China South Grid |
+| Name        |   Year    | Program | Current Location |
+|:------------|:---------:|--------:|-----------------:|
+| Yimeng Wang | 2022-2025 |  Master |      DTCO @ CXMT | 
+| Zhihao Wang | 2022-2025 |  Master |        TD @ ICRD | 
+| Lei Zhang   | 2022-2025 |  Master |      DTCO @ CXMT |
+| Qili Fu     | 2023-2026 |  Master | China South Grid |
+
+
+| Visiting Students |    Year     |                           Current Location |
+|:------------------|:-----------:|-------------------------------------------:|
+| Qiangyue Fang     | 2026 Summer |              Univeristy of Toronto, Canada | 
+| Yongwon Yun       | 2026 Summer |                  Hanyang University, Korea | 
+| SeongBeom Kim     | 2026 Summer |                  Hanyang University, Korea |

@@ -111,6 +111,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
+            },},{id: "news-prof-shin-39-s-group-from-hanyang-university-visited-the-pku-dtco-team",
+          title: 'Prof. Shin&amp;#39;s group from Hanyang University Visited the PKU DTCO team',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_12/";
             },},{id: "projects-dtco",
           title: 'DTCO',
           description: "Design Technology Co-optimization is key in bleeding edge nodes",
