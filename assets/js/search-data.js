@@ -116,6 +116,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_12/";
+            },},{id: "news-two-paper-was-accepted-by-ieee-iedm-congratulations-to-the-authors",
+          title: 'Two paper was accepted by IEEE IEDM, Congratulations to the authors',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_13/";
             },},{id: "projects-dtco",
           title: 'DTCO',
           description: "Design Technology Co-optimization is key in bleeding edge nodes",
