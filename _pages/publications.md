@@ -14,27 +14,29 @@ nav_order: 2
 ---
 
 ## Invited talks
-1. H. Wu, 2026 ENGE Conferene, Jeju Island, Korea, Nov. 2026.
-2. H. Wu, 2026 International Conference on Solid State Devices and Materials (SSDM), Nagasaki, Japan, Sep. 2026.
-3. H. Wu, 2026 LTB-3D Conference, Kanazawa, Japan, May 2026.
-4. H. Wu, 2026 International Symposium of EDA (ISEDA), Singapore, May 2026. (Speical Talk)
-5. H. Wu, 2026 CSTIC, Shanghai, China, Mar. 2026.(Keynote Talk)
-6. H. Wu "Flip 3D (3D): A Novel 3D Integration for Multi-dimensional Stacking", HiPi Annual Conference, Dec. 2025 
-7. H. Wu, "OPPORTUNITIES FOR ADVANCED LOGIC TECHNOLOGY WITH DUAL-SIDED INTEGRATIONS: FROM LATERAL TO VERTICAL TRANSISTORS ",_2025 IEEE 16th International Conference on ASIC(ASICON)_, Kunming, China, Oct., 2025 
-8. H. Wu, "Flip 3D(F3D): A novel 3D Integration Technology Enabled by the Advanced Bonding", _International Workshop on Low Temperature Bonding for 3D Integration (LTB-3D)_, Tianjing, China, Aug., 2025
-9. H. Wu, “3D Integration Innovations and Opportunities on Both Sides of Wafer: A Design Perspective”, _International Symposium of EDA 2025(ISEDA)_, Hong Kong SAR, China, May, 2025
-10. H. Wu, “Flip 3D (F3D) A dual-sided integration technology for future's computing hardware”, _2025 CSTIC_, Shanghai, China, Mar., 2025
-11. H. Wu, “From Flip FET to Flip 3D Integration (F3D): Maximizing the Scaling Potential of Wafer Both Sides Beyond Conventional 3D Integration”, _The 9th IEEE Electron Devices Technology and Manufacturing Conference (EDTM)_,Hong Kong SAR, China, Mar., 2025
-12. H. Wu, “Flip 3D (F3D): A Novel Dual-Sided 3D Technology For Future”, _2024 National Vacuum and Semiconductor Technology Conference_, Shanghai China, Nov., 2024
-13. H. Wu, “Flip 3D (F3D): A Novel 3D Integration Technology with Dual-side Integration Capabilities”, _IEEE ICSICT_, Zhuhai, China, Oct., 2024
-14. H. Wu, “Flip 3D Integration:" Flip 3D Integration: A Novel 3D Integration Technology with Dual-side Active and Interconnects Beyond CFET and BSPDN”, _The 19th National Semiconductor and Integrated Technology Conference_, Nanjing, China, Aug., 2024
-15. H. Wu, “Logic M3D For Future Giving Ge a Second Opportunity”, _Semiconductor Technology Forum_, Beijing, China, Nov., 2023
-16. H. Wu, “Consideration of Logic Technology for GAA and Beyond in Angstrom Age”, _STW_, Shenzheng, China, Sep., 2023
-17. H. Wu, “Low Temperature Ge CMOS for Future M3D Technology”, _2023 CSTIC_, Shanghai, China, July, 2023
-18. H. Wu, “Logic M3D For Future Giving Ge a Second Chance”, _National Semiconductor Physics Conference_, Shanghai, China, July, 2023  
-19. H. Wu and P. D. Ye, “Ge CMOS Devices and Logic Circuits”, _International Conference on Solid State Devices and Materials (SSDM)_, Sapporo, Japan, September 2015.
 
-
+1. H. Wu, 2026 ENGE Conference, Jeju Island, Korea, Nov. 2026.
+2. H. Wu, The 20th Conference on Semiconductors and Integrated Technologies, Qingdao, Shandong, China, Oct. 2026.
+3. H. Wu, 2026 International Conference on Solid State Devices and Materials (SSDM), Nagasaki, Japan, Sep. 2026.
+4. H. Wu, The 5th National Youth Forum on Semiconductor Physics, Beijing, China, Sep. 2026.
+5. H. Wu, 2026 International Device Applications Symposium (IDAS), Shanghai, China, Sep. 2026.
+6. H. Wu, 2026 LTB‑3D Conference, Kanazawa, Japan, May 2026.
+7. H. Wu, 2026 International Symposium of EDA (ISEDA), Singapore, May 2026. (Special Talk)
+8. H. Wu, 2026 CSTIC, Shanghai, China, Mar. 2026. (Keynote Talk)
+9. H. Wu, "Flip 3D (3D): A Novel 3D Integration for Multi‑dimensional Stacking", HiPi Annual Conference, Dec. 2025.
+10. H. Wu, "OPPORTUNITIES FOR ADVANCED LOGIC TECHNOLOGY WITH DUAL‑SIDED INTEGRATIONS: FROM LATERAL TO VERTICAL TRANSISTORS", 2025 IEEE 16th International Conference on ASIC (ASICON), Kunming, China, Oct. 2025.
+11. H. Wu, "Flip 3D (F3D): A novel 3D Integration Technology Enabled by the Advanced Bonding", International Workshop on Low Temperature Bonding for 3D Integration (LTB‑3D), Tianjin, China, Aug. 2025.
+12. H. Wu, “3D Integration Innovations and Opportunities on Both Sides of Wafer: A Design Perspective”, International Symposium of EDA 2025 (ISEDA), Hong Kong SAR, China, May 2025.
+13. H. Wu, “Flip 3D (F3D): A dual‑sided integration technology for future's computing hardware”, 2025 CSTIC, Shanghai, China, Mar. 2025.
+14. H. Wu, “From Flip FET to Flip 3D Integration (F3D): Maximizing the Scaling Potential of Wafer Both Sides Beyond Conventional 3D Integration”, The 9th IEEE Electron Devices Technology and Manufacturing Conference (EDTM), Hong Kong SAR, China, Mar. 2025.
+15. H. Wu, “Flip 3D (F3D): A Novel Dual‑Sided 3D Technology For Future”, 2024 National Vacuum and Semiconductor Technology Conference, Shanghai, China, Nov. 2024.
+16. H. Wu, “Flip 3D (F3D): A Novel 3D Integration Technology with Dual‑side Integration Capabilities”, IEEE ICSICT, Zhuhai, China, Oct. 2024.
+17. H. Wu, “Flip 3D Integration: A Novel 3D Integration Technology with Dual‑side Active and Interconnects Beyond CFET and BSPDN”, The 19th National Semiconductor and Integrated Technology Conference, Nanjing, China, Aug. 2024.
+18. H. Wu, “Logic M3D For Future Giving Ge a Second Opportunity”, Semiconductor Technology Forum, Beijing, China, Nov. 2023.
+19. H. Wu, “Consideration of Logic Technology for GAA and Beyond in Angstrom Age”, STW, Shenzhen, China, Sep. 2023.
+20. H. Wu, “Low Temperature Ge CMOS for Future M3D Technology”, 2023 CSTIC, Shanghai, China, July 2023.
+21. H. Wu, “Logic M3D For Future Giving Ge a Second Chance”, National Semiconductor Physics Conference, Shanghai, China, July 2023.
+22. H. Wu and P. D. Ye, “Ge CMOS Devices and Logic Circuits”, International Conference on Solid State Devices and Materials (SSDM), Sapporo, Japan, September 2015.
 
 ---
 ## Conference and Journal Papers
