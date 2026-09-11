@@ -1,4 +1,7 @@
 
+# PostDoc. Researcher
+
+Dr. Yanbang Chu, PhD @ Institute of Physics, CAS
 
 # PhD Students
 
@@ -10,7 +13,7 @@
 | Wanyue Peng   | BS: EE @ Nankai U |                                          |
 | Yu Liu        |    BS: EECS @ BIT |                                          |
 | Rui Guo       | BS: EE @ Nankai U | Co-advised with Prof. R. Wang & L. Zhang |
-| Feiyu Teng    |           MS: PKU |                                          |
+| Feiyu Teng    |      MS: SS @ PKU |                                          |
 | Jianxiang Jin |    BS: EECS @ PKU |                                          |
 | Jiacheng Sun  |    BS: EECS @ PKU |                                          |
 | Mingmin Lin   |    BS: EECS @ FZU |                                          |
@@ -24,16 +27,16 @@
 
 | Students       |                                  From |
 |:---------------|--------------------------------------:|
-| Chuan Lan      |                               BS: SCU |
-| Jingru Jiang   |                         BS: EECS@HUST |
-| Xiangyu Yan    |                          BS: EECS@PKU |
-| Ziqiao Xu      |                          BS: EECS@PKU |
-| Xingjian Mao   |                          BS: EECS@PKU |
-| Zhentao Xiao   |                        BS: EECS@UETSC |
+| Chuan Lan      |                          BS: IC @ SCU |
+| Jingru Jiang   |                         BS: IC @ HUST |
+| Xiangyu Yan    |                        BS: EECS @ PKU |
+| Ziqiao Xu      |                        BS: EECS @ PKU |
+| Xingjian Mao   |                        BS: EECS @ PKU |
+| Zhentao Xiao   |                      BS: EECS @ UETSC |
 | Chuangxin Zhou | BS: School of the Gifted Young @ USTC |
-| Mengyuan Qiang |                       BS: EECS @ XJTU |
-| Yifei Chen     |                        BS: EECS @ CQU |
-| Jiahao Zhang   |                       BS: EECS @ HUST | 
+| Mengyuan Qiang |           BS: Microelectronics @ XJTU |
+| Yifei Chen     |             BS: Microlectronics @ CQU |
+| Jiahao Zhang   |                         BS: IC @ HUST | 
 
 
 

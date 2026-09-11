@@ -16,6 +16,7 @@ nav_order: 2
 ## Invited talks
 
 1. H. Wu, 2026 ENGE Conference, Jeju Island, Korea, Nov. 2026.
+2. H. Wu, 2026 IEEE ICSICT Conference, Hangzhou, China, Nov. 2026 (Track Chair)
 2. H. Wu, The 20th Conference on Semiconductors and Integrated Technologies, Qingdao, Shandong, China, Oct. 2026.
 3. H. Wu, 2026 International Conference on Solid State Devices and Materials (SSDM), Nagasaki, Japan, Sep. 2026.
 4. H. Wu, The 5th National Youth Forum on Semiconductor Physics, Beijing, China, Sep. 2026.
