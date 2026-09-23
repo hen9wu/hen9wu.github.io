@@ -33,11 +33,13 @@ latest_posts:
 
 **Experiences**: Research Staff Member at <a href='https://research.ibm.com/labs/albany/'>IBM T. J. Watson Research Center</a> in New York State, USA from 2016 to 2022, working towards _Next-gen Logic Development_. Prior to this, I received the Ph.D. degree in Electrical and Computer Engineering from Purdue University under Professor <a href='https://engineering.purdue.edu/~yep/'>P.D. Ye</a> in 2016, with a thesis on _Beyond Si CMOS_. 
 
-**Research**: My research focuses on Design Technology Co-optimization (<a href='https://www.imec-int.com/en/articles/getting-most-out-your-system'>DTCO</a>), <a href='https://spectrum.ieee.org/3d-cmos'>3D Integration</a>, <a href='https://www.semiconductor-digest.com/new-structure-transistors-for-advanced-technology-node-cmos-ics/'>VLSI Device&Design</a> and Semiconductor Devices&Physics. I have published more than 80 papers/book chapters and filed more than 500 US/China/EU patents.
+**Research**: My research focuses on Design Technology Co-optimization (<a href='https://www.imec-int.com/en/articles/getting-most-out-your-system'>DTCO</a>), <a href='https://spectrum.ieee.org/3d-cmos'>3D Integration</a>, <a href='https://www.semiconductor-digest.com/new-structure-transistors-for-advanced-technology-node-cmos-ics/'>VLSI Device&Design</a> and Semiconductor Devices&Physics. I have published more than 100 papers/book chapters and filed more than 600 US/China/EU patents.
+
+**Focus**: We try our best to work on real problems. Our research starts from challenges that matter in real devices, technologies, and manufacturing—not from the pursuit of novelty for its own sake. We value solid science, rigorous engineering, and results that can stand up to careful scrutiny and real-world constraints.  Our goal is simple: do meaningful work, do it well, and make it useful.
 
 **Recognitions**: Recipient of Best Paper Awards of several renowned conferences such as <a href='http://www.vlsisymposium.org/'>VLSI</a>2024, <a href='https://2025.deviceresearchconference.org/'>DRC</a>2015, <a href='https://www.src.org/calendar/e005106/'>TECHON</a>2015 and <a href='https://www.ieeesisc.org/'>SISC</a>2013. I also received the IEEE Paul Rappaport Award and was appointed as "IBM Master Inventor".
 
-**Services**: Editor for IEEE Transactions on Semiconductor Manufacturing, Committee member of IEEE Semiconductor Manufacturing, TPC member of several international conference SSDM, IEEE EDTM, CSTIC, ISEDA, ICSICT, ISQED
+**Services**: Editor for IEEE Transactions on Semiconductor Manufacturing, incoming chair of IEEE Semiconductor Manufacturing Committee, TPC member of several international conference SSDM, IEEE EDTM, CSTIC, ISEDA, ICSICT, ISQED.
 
 **Openings**: The group has 3-5 openings for potential graduate students every year and post-doc researchers. If you are interested in pioneering/contributing in advancement of IC technology, This is the place.
 
