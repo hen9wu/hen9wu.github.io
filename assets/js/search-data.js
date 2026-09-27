@@ -121,6 +121,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_13/";
+            },},{id: "news-2026-teamtshirt-released",
+          title: '2026 TeamTshirt Released',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_14/";
             },},{id: "projects-dtco",
           title: 'DTCO',
           description: "Design Technology Co-optimization is key in bleeding edge nodes",
