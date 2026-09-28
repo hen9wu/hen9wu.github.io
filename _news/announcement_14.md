@@ -5,9 +5,7 @@ title: 2026 TeamTshirt Released
 inline: false
 related_posts: false
 ---
-
-Thanks for the nice design by Jiacheng and Jinghao
-
+Thanks for the nice design by Jiacheng and Jinghao  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/TeamTshirt2026.jpg" title="The design" class="img-fluid rounded z-depth-1" %}
