@@ -2,52 +2,65 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p><em> The Power of Nature is Unbelievable</em> </p> 
+subtitle: <p><em>Building the next generation of semiconductor technology</em></p>
 
 profile:
   align: right
   image: prof_pic3.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # crops the image into a circle
   more_info: >
-    <p><strong>Heng Wu, </strong></p>
-    <p> <strong>Associate Professor</strong></p>    
-    <p> <a href='https://ic.pku.edu.cn/index.htm'>School of Integrated Circuits</a> </p>
-    <p> <a href='https://www.pku.edu.cn/'>Peking University</a> </p>
-    <p> hengwu at pku.edu.cn </p>
+    <p><strong>Heng Wu</strong></p>
+    <p><strong>Associate Professor</strong></p>
+    <p><a href='https://ic.pku.edu.cn/index.htm'>School of Integrated Circuits</a></p>
+    <p><a href='https://www.pku.edu.cn/'>Peking University</a></p>
+    <p>hengwu at pku.edu.cn</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: false
+  limit: 3
 ---
 
-**Heng Wu**, Associate professor at the School of Integrated Circuits of Peking University from 2023.
+I am an Associate Professor at the School of Integrated Circuits, Peking University (PKU). Before joining PKU in 2023, I was a Research Staff Member at [IBM T. J. Watson Research Center](https://research.ibm.com/labs/albany/) in New York State, where I worked on next-generation logic technology development from 2016 to 2022. I received my Ph.D. in Electrical and Computer Engineering from Purdue University in 2016, advised by [Prof. P. D. Ye](https://engineering.purdue.edu/~yep/), with a thesis on *Beyond Si CMOS*.
 
-**Experiences**: Research Staff Member at <a href='https://research.ibm.com/labs/albany/'>IBM T. J. Watson Research Center</a> in New York State, USA from 2016 to 2022, working towards _Next-gen Logic Development_. Prior to this, I received the Ph.D. degree in Electrical and Computer Engineering from Purdue University under Professor <a href='https://engineering.purdue.edu/~yep/'>P.D. Ye</a> in 2016, with a thesis on _Beyond Si CMOS_. 
+## Research vision
 
-**Research**: My research focuses on Design Technology Co-optimization (<a href='https://www.imec-int.com/en/articles/getting-most-out-your-system'>DTCO</a>), <a href='https://spectrum.ieee.org/3d-cmos'>3D Integration</a>, <a href='https://www.semiconductor-digest.com/new-structure-transistors-for-advanced-technology-node-cmos-ics/'>VLSI Device&Design</a> and Semiconductor Devices&Physics. I have published more than 100 papers/book chapters and filed more than 600 US/China/EU patents.
+**Semiconductor scaling needs more than smaller transistors.** We explore new device architectures, integration schemes, and design–technology co-optimization (DTCO) approaches to understand how technology innovations can translate into useful, manufacturable systems.
 
-**Focus**: We try our best to work on real problems. Our research starts from challenges that matter in real devices, technologies, and manufacturing—not from the pursuit of novelty for its own sake. We value solid science, rigorous engineering, and results that can stand up to careful scrutiny and real-world constraints.  Our goal is simple: do meaningful work, do it well, and make it useful.
+Our research connects device physics, process integration, physical design, and circuit-level evaluation. We focus on the technical challenges that matter in real devices and manufacturing—not novelty for its own sake. We value solid science, rigorous engineering, and results that stand up to careful scrutiny.
 
-**Recognitions**: Recipient of Best Paper Awards of several renowned conferences such as <a href='http://www.vlsisymposium.org/'>VLSI</a>2024, <a href='https://2025.deviceresearchconference.org/'>DRC</a>2015, <a href='https://www.src.org/calendar/e005106/'>TECHON</a>2015 and <a href='https://www.ieeesisc.org/'>SISC</a>2013. I also received the IEEE Paul Rappaport Award and was appointed as "IBM Master Inventor".
+## Research areas
 
-**Services**: Editor for IEEE Transactions on Semiconductor Manufacturing, incoming chair of IEEE Semiconductor Manufacturing Committee, TPC member of several international conference SSDM, IEEE EDTM, CSTIC, ISEDA, ICSICT, ISQED.
+- **Advanced transistor architectures:** CFET, vertical FETs, and emerging device structures.
+- **3D and dual-sided integration:** Flip FET, Flip 3D, and new ways to use both sides of a wafer.
+- **Design–technology co-optimization:** Connecting device and process choices to layout, parasitics, and circuit performance.
+- **Manufacturing-aware technology development:** Evaluating integration challenges and practical trade-offs early in the research process.
 
-**Openings**: The group has 3-5 openings for potential graduate students every year and post-doc researchers. If you are interested in pioneering/contributing in advancement of IC technology, This is the place.
+Explore our [research projects](/projects/) and [selected publications](/publications/).
 
-**Expectation for Potential Students**: Problem-solving,Team-working and Enthusiasm. You are strongly encouraged to read two textbooks: _< Fundamentals of Modern VLSI Devices> by Tak H. Ning & Yuan Taur_ and _< Digital Integrated Circuits, A Design Perspective> by Jan. Rabaey._
+## Background and recognition
 
-<ins>THINK, THINK DIFFERENT and HARD WORKING.</ins>
+My research has resulted in more than 100 papers and book chapters, alongside hundreds of patent filings in the United States, China, and other jurisdictions. I have received paper awards at conferences including VLSI, the Device Research Conference (DRC), TECHCON, and SISC, as well as the IEEE Paul Rappaport Award and recognition as an IBM Master Inventor.
 
----
-> If you want to be successful, attitude is everything. We have all the knowledge you need and you ought to be ready to have the attitude to do something with it. \
-> —_Robert H. Dennard_
----
+I serve as an editor for *IEEE Transactions on Semiconductor Manufacturing* and contribute to the semiconductor research community through conference technical program committees and professional service, including SSDM, EDTM, CSTIC, ISEDA, ICSICT, and ISQED.
+
+## Join us
+
+We welcome motivated students and researchers who want to work on challenging problems in semiconductor technology. Curiosity, persistence, critical thinking, and a willingness to work collaboratively matter more than arriving with every answer already known.
+
+Our group works across devices, process technology, integration, and design. Students can develop the ability to connect fundamental ideas with practical technology constraints, communicate their results clearly, and grow into independent researchers.
+
+Read about our [students and research culture](/students/) or contact me at **hengwu at pku.edu.cn** with your CV, academic background, research interests, and a brief note about what you hope to explore.
+
+## Collaborate
+
+We welcome conversations with academic groups and industry partners working on advanced devices, DTCO, 3D integration, and semiconductor manufacturing. If you have a challenging technical question or a potential joint project, please see our [collaboration page](/collaborate/).
+
