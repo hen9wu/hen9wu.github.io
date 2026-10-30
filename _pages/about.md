@@ -31,14 +31,17 @@ latest_posts:
 
 **Heng Wu**, Associate professor at the School of Integrated Circuits of Peking University from 2023.
 
-**Experiences**: Research Staff Member at <a href='https://research.ibm.com/labs/albany/'>IBM T. J. Watson Research Center</a> in New York State, USA from 2016 to 2022, working towards _Next-gen Logic Development_. Prior to this, I received the Ph.D. degree in Electrical and Computer Engineering from Purdue University under Professor <a href='https://engineering.purdue.edu/~yep/'>P.D. Ye</a> in 2016, with a thesis on _Beyond Si CMOS_. 
+**Experiences**: _Very focused: hard-core logic R&D cross both industry and academia_
+- Research Staff Member at <a href='https://research.ibm.com/labs/albany/'>IBM T. J. Watson Research Center</a> in New York State, USA from 2016 to 2022, working towards _Next-gen Logic Development_. 
+- Prior to this, I received the Ph.D. degree in Electrical and Computer Engineering from Purdue University under Professor <a href='https://engineering.purdue.edu/~yep/'>P.D. Ye</a> in 2016, with a thesis on _Beyond Si CMOS_. 
 
 **Research**: _Semiconductor scaling needs more than smaller transistors._ Design is more than important in technology development. 
 
-Our research focuses on Design Technology Co-optimization (<a href='https://www.imec-int.com/en/articles/getting-most-out-your-system'>DTCO</a>), <a href='https://spectrum.ieee.org/3d-cmos'>3D Integration</a>, <a href='https://www.semiconductor-digest.com/new-structure-transistors-for-advanced-technology-node-cmos-ics/'>VLSI Device&Design</a> and Semiconductor Devices&Physics. I have published more than 100 papers/book chapters and filed more than 600 US/China/EU patents.  
-We try our best to work on real problems. Our research starts from challenges that matter in real devices, technologies, and manufacturing—not from the pursuit of novelty for its own sake. We value solid science, rigorous engineering, and results that can stand up to careful scrutiny and real-world constraints.  Our goal is simple: do meaningful work, do it well, and make it useful.
+- Our research focuses on Design Technology Co-optimization (<a href='https://www.imec-int.com/en/articles/getting-most-out-your-system'>DTCO</a>), <a href='https://spectrum.ieee.org/3d-cmos'>3D Integration</a>, <a href='https://www.semiconductor-digest.com/new-structure-transistors-for-advanced-technology-node-cmos-ics/'>VLSI Device&Design</a> and Semiconductor Devices&Physics. 
+- We have published more than 100 papers/book chapters and filed more than 600 US/China/EU patents.  
+- We try our best to work on real problems. Our research starts from challenges that matter in real devices, technologies, and manufacturing—not from the pursuit of novelty for its own sake. We value solid science, rigorous engineering, and results that can stand up to careful scrutiny and real-world constraints.  Our goal is simple: do meaningful work, do it well, and make it useful.
 
-**Focus Area**: Explore our [research projects](/projects/) and [selected publications](/publications/).
+**Focus Area**: _CMOS Logic, explore our [research projects](/projects/) and [selected publications](/publications/)._
 
 - Design–technology co-optimization: Connecting device and process choices to layout, parasitics, and circuit performance.
 - Manufacturing-aware technology development: Evaluating integration challenges and practical trade-offs early in the research process.
