@@ -43,7 +43,7 @@ We try our best to work on real problems. Our research starts from challenges th
 - Advanced transistor architectures for logic technology.
 - 3D and dual-sided integration.
 
-**Recognitions**: Recipient of Best Paper Awards of several renowned conferences such as <a href='http://www.vlsisymposium.org/'>VLSI</a>2024, <a href='https://2025.deviceresearchconference.org/'>DRC</a>2015, <a href='https://www.src.org/calendar/e005106/'>TECHON</a>2015 and <a href='https://www.ieeesisc.org/'>SISC</a>2013. I also received the IEEE Paul Rappaport Award and was appointed as "IBM Master Inventor".
+**Recognitions**: Recipient of Best Paper Awards of several renowned conferences such as EDTM 2025, <a href='http://www.vlsisymposium.org/'>VLSI</a>2024, <a href='https://2025.deviceresearchconference.org/'>DRC</a>2015, <a href='https://www.src.org/calendar/e005106/'>TECHON</a>2015 and <a href='https://www.ieeesisc.org/'>SISC</a>2013. I also received the IEEE Paul Rappaport Award and was appointed as "IBM Master Inventor".
 
 **Services**: Editor for IEEE Transactions on Semiconductor Manufacturing, incoming chair of IEEE Semiconductor Manufacturing Committee, TPC member of several international conference SSDM, IEEE EDTM, CSTIC, ISEDA, ICSICT, ISQED.
 
