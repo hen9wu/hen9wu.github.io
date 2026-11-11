@@ -126,6 +126,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_14/";
+            },},{id: "news-our-f3d-work-is-selected-as-iedm2026-highlights",
+          title: 'Our F3D work is selected as IEDM2026 highlights',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_15/";
             },},{id: "projects-dtco",
           title: 'DTCO',
           description: "Design Technology Co-optimization is key in bleeding edge nodes",
