@@ -8,7 +8,7 @@ related_posts: false
 Congratulations to Yanbang for the nice work and collaboration with Prof. Zhang's group in CAS-Physics.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IEDM26Highlights.jpg" title="Dual-sdied CMOS!" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IEDM26Highlights.jpg" title="Dual-sdied CMOS Enablement" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
