@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 ## Patents
-- More than 500 Patents Filed in US/Global/China.
+- More than 600 Patents Filed in US/Global/China.
 
 - <p> <a href='https://www.freepatentsonline.com/result.html?p=1&edit_alert=&srch=xprtsrch&query_txt=IN%2FWu%2CHeng+AADR%2FARMONK&uspat=on&usapp=on&eupat=on&jp=on&pct=on&depat=on&date_range=all&stemming=on&sort=chron&search=Search'>FPO Index</a> </p>
 
@@ -15,7 +15,11 @@ nav_order: 2
 
 ## Invited talks
 
-1. H. Wu, 2026 ENGE Conference, Jeju Island, Korea, Nov. 2026.
+1. H. Wu, 2027 CSTIC Tutorial, Shanghai, China, Mar. 2027.
+2. H. Wu, 2027 EDTM Short Course, Fukuoka, Japan, Mar. 2027.
+3. H. Wu, KAIST Open Class, Nov. 2026 (Invited by Prof. Kim)
+2. H. Wu, 2026 ENGE Conference, Jeju Island, Korea, Nov. 2026.
+2. H. Wu, 2026 第6届中国电子学会半导体青年学术会议, Nanjing, Jiangsu, China, Nov. 2026.
 2. H. Wu, 2026 IEEE ICSICT Conference, Hangzhou, China, Nov. 2026 (Track Chair)
 2. H. Wu, The 20th Conference on Semiconductors and Integrated Technologies, Qingdao, Shandong, China, Oct. 2026.
 3. H. Wu, 2026 International Conference on Solid State Devices and Materials (SSDM), Nagasaki, Japan, Sep. 2026.
